@@ -7,6 +7,5 @@ $(document).ready(function() {
       $(discrip).fadeIn();
       $(".btn").removeClass("btn-dark");
       $("#" + sentid).addClass("btn-dark");
-
   });
 });
